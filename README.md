@@ -23,3 +23,11 @@
 - Used `detach()`
 - Used `insertAfter` and `insertBefore`
 - I didn't write the code but I didn't know about the `this.parentElement` to find the index of the current node's parent. 
+
+## 10.13: LAB: Memory game (jQuery)
+- This was hard. Got to experiment a lot with animations and timing. I used another parameter with the `slideUp` function. Instead of using `queue` used the callback function to make it slide up and down without it immediately doing so. Didn't understand why the instructions wanted to `$game.hide()` as the very first step. Removed it to make testing the game possible. At the end I see why.
+
+### Takeaways
+- Using animitions on elements/ jquery objects
+- Set timers 
+- chaining animations and other functions to elements. 
