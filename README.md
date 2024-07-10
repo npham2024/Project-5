@@ -8,3 +8,10 @@
 - Practiced event listeners `.on` and the different kinds of events that trigger them. 
 - `append` elements onto other elements. 
 - Overall saw the similarities of using regular javascript and jquery. 
+
+## 10.11 LAB: Quote web API (jQuery)
+- This is similar to the activity we did in Project 4. It was straight forward. I did run into a little confusion when I tried to put `let html = "<ol>"` inside of my done function. It would claim that it was not being called. I had to throw it outside of the ajax call. I was able to show the error message in this project. 
+
+### Takeaways
+- Practive using Ajax to make XMLHttpRequest
+- These calls don't require nesting text/parameters inside of the url
