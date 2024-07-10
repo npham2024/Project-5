@@ -15,3 +15,11 @@
 ### Takeaways
 - Practive using Ajax to make XMLHttpRequest
 - These calls don't require nesting text/parameters inside of the url
+
+## 10.12: LAB: To-do list (jQuery)
+- This project was fairly straight forward. However I did struggle when with the `.eq` function for the list of elements. At first I was trying to use `[index]` but that did not work. It is used more for javascript arrays not jquery objects. 
+
+### Takeaways
+- Used `detach()`
+- Used `insertAfter` and `insertBefore`
+- I didn't write the code but I didn't know about the `this.parentElement` to find the index of the current node's parent. 
