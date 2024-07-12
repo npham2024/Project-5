@@ -1,5 +1,13 @@
 # Project-5
  All Project 5 Assignments (Module 10 in Zybooks)
+## 9.18 LAB: User registration form (JavaScript)
+First I made sure to get each element and their input values. The trickest part about this  assignment was the validiations that were needed to put into place. I used `.test` when using regex to test the inputs against the desired constraints. Storuing each type of error before displaying them when the user clicks on the submit button. Then removing the class `hide` if there were any errors in order to display the errors. If there weren't any in the array take I needed to add the class to not show anything.  
+
+### Takeaways
+-  Used the `.test()` method when dealing with regex
+- Used the `forEach` method when iterating through the array. 
+- Validations are important and take lots of testing to make sure they are corrcetly in place. 
+
 
 ## 10.10 LAB: Currency Conversion (jQuery)
 - This was difficult possibly because it was the first project right after the activities. A lot of it was syntax difficulties. Starting off I ran into the problem of `for ... of` vs `for ... in` when trying to find names for the currency abbervations. `of` is more used for arrays while `for... in` is used for objects which returns the keys of the object. Also `val()` and `text()` helped me learn that `val()` is used for input usually and `text()` returns the text of an element when updating the results. 
