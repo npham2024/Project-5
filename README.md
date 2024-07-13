@@ -23,6 +23,12 @@ Straight forward with this project. Accessed the local storage which we got back
 - local storage stores key and value pairs indefinitely
 - session stoarge stores key and vallue pairs which disappear when the browser is closed. 
 
+## 9.21: LAB: Snowman canvas (JavaScript)
+This was little difficult for me. At first I did not do things in the order that zybooks wanted. The canvas displayed the correct snowman however it was not in the order that was asked. Most of the steps were clearly outlined. 
+
+### Takeaways
+- Used canvas and context to shapes and text. 
+
 ## 10.10 LAB: Currency Conversion (jQuery)
 - This was difficult possibly because it was the first project right after the activities. A lot of it was syntax difficulties. Starting off I ran into the problem of `for ... of` vs `for ... in` when trying to find names for the currency abbervations. `of` is more used for arrays while `for... in` is used for objects which returns the keys of the object. Also `val()` and `text()` helped me learn that `val()` is used for input usually and `text()` returns the text of an element when updating the results. 
 
