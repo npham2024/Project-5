@@ -29,6 +29,13 @@ This was little difficult for me. At first I did not do things in the order that
 ### Takeaways
 - Used canvas and context to shapes and text. 
 
+## 9.23: LAB: Circle with a Promise (JavaScript)
+`Showcircle()` returns a promise. When fulfilled the resolve returns a div. When using the `then()` callback we pass the `div` into the function and change its `innerHTML`. When the promise is rejected it returns a string. We use the string inside an `alert()`.
+
+### Takeaways
+- Good example of handling fulfilled and rejected promises. 
+- Using then() and passing functions into the callbacks
+
 ## 10.10 LAB: Currency Conversion (jQuery)
 - This was difficult possibly because it was the first project right after the activities. A lot of it was syntax difficulties. Starting off I ran into the problem of `for ... of` vs `for ... in` when trying to find names for the currency abbervations. `of` is more used for arrays while `for... in` is used for objects which returns the keys of the object. Also `val()` and `text()` helped me learn that `val()` is used for input usually and `text()` returns the text of an element when updating the results. 
 
