@@ -8,6 +8,13 @@ First I made sure to get each element and their input values. The trickest part 
 - Used the `forEach` method when iterating through the array. 
 - Validations are important and take lots of testing to make sure they are corrcetly in place. 
 
+## 9.20 LAB: Grocery list (JavaScript)
+Straight forward with this project. Accessed the local storage which we got back as a string. Used the `split('')` method to display as an array. When saving the list saved as a string.
+
+### Takeaways
+- Can effectivly access local storage. 
+- local storage stores key and value pairs indefinitely
+- session stoarge stores key and vallue pairs which disappear when the browser is closed. 
 
 ## 10.10 LAB: Currency Conversion (jQuery)
 - This was difficult possibly because it was the first project right after the activities. A lot of it was syntax difficulties. Starting off I ran into the problem of `for ... of` vs `for ... in` when trying to find names for the currency abbervations. `of` is more used for arrays while `for... in` is used for objects which returns the keys of the object. Also `val()` and `text()` helped me learn that `val()` is used for input usually and `text()` returns the text of an element when updating the results. 
