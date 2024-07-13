@@ -8,6 +8,13 @@ First I made sure to get each element and their input values. The trickest part 
 - Used the `forEach` method when iterating through the array. 
 - Validations are important and take lots of testing to make sure they are corrcetly in place. 
 
+## 9.19 LAB: Super heroes and villains (JavaScript)
+Object oriented programming making classes and using inhiertance to make child and parent classes than extend. Overall straight forward did not have problem with this one. 
+
+## Takeaways
+- Classes in Javascript
+- Extending classes to make use of a parent class constructor. 
+
 ## 9.20 LAB: Grocery list (JavaScript)
 Straight forward with this project. Accessed the local storage which we got back as a string. Used the `split('')` method to display as an array. When saving the list saved as a string.
 
