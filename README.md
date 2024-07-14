@@ -36,6 +36,13 @@ This was little difficult for me. At first I did not do things in the order that
 - Good example of handling fulfilled and rejected promises. 
 - Using then() and passing functions into the callbacks
 
+## 9.24: LAB: Quote web API with Fetch (JavaScript)
+This lab was straight forward. I needed to make the function async before using await. However like the other error message in the api call project i was unable to display the error message. 
+
+### Takeaways
+- Using async functions.
+- Using await 
+
 ## 10.10 LAB: Currency Conversion (jQuery)
 - This was difficult possibly because it was the first project right after the activities. A lot of it was syntax difficulties. Starting off I ran into the problem of `for ... of` vs `for ... in` when trying to find names for the currency abbervations. `of` is more used for arrays while `for... in` is used for objects which returns the keys of the object. Also `val()` and `text()` helped me learn that `val()` is used for input usually and `text()` returns the text of an element when updating the results. 
 
